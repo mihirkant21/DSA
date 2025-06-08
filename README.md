@@ -3,7 +3,7 @@
 
 Welcome to my DSA repository! This is where I document my journey of learning and implementing core data structures and algorithms in C and C++.
 
-## 📚 Topics will Covered i this. 
+## 📚 Topics will be Covered in this. 
 
 - ✅ Arrays & Strings
 - ✅ Linked Lists
